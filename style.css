@@ -56,3 +56,17 @@ footer a {
 }
 
 
+.bookingButton {
+    background-color: deeppink;
+    color: #ffffff;
+}
+.bookDetailImage {
+    padding: 15px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+
+    overflow: hidden;
+}
